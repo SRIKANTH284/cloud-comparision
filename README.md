@@ -15,3 +15,4 @@ Alibaba ECS means Elastic Compute Service.
 
 Storage
 Networking / Network
+![alt text](https://url/to/cloud.jfif)
